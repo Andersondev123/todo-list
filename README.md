@@ -55,7 +55,7 @@ Este projeto foi feito para **aprimorar habilidades em front-end**, mostrando **
 
 1. Clone o repositório:  
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/Andersondev123/todo-list.git
 
 2. Instale as dependências:
 pnpm install
