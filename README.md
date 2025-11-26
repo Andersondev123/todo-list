@@ -1,5 +1,7 @@
 # TodoList - Lista de Tarefas
 
+![Preview do projeto](.github/preview.jpg)
+
 Uma **aplicação prática para organizar suas tarefas do dia a dia**, construída com **React** e **TypeScript**. O TodoList permite criar, editar, concluir e deletar tarefas de forma simples e intuitiva, com **feedback visual** e **persistência automática no LocalStorage**, dando a sensação de um app real.  
 
 Este projeto foi feito para **aprimorar habilidades em front-end**, mostrando **hooks customizados, modularidade e boas práticas de código**.
@@ -53,17 +55,22 @@ Este projeto foi feito para **aprimorar habilidades em front-end**, mostrando **
 
 ## Como usar
 
-1. Clone o repositório:  
+### Clone o repositório:  
 ```bash
 git clone https://github.com/Andersondev123/todo-list.git
+```
 
-2. Instale as dependências:
+### Instale as dependências:
+```bash
 pnpm install
+```
 
-3. Execute o projeto:
+### Execute o projeto:
+```bash
 pnpm dev
+```
 
-4. Abra o navegador em:
+### Abra o navegador em:
 http://localhost:5173
 
 
